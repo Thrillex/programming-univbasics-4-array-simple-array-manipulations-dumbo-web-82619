@@ -30,12 +30,12 @@ def using_insert(array, element)
  array.insert(4,element)
 end
 
-def
-uniq
+def using_uniq(array)
+  array.uniq
 end
 
-def
-.flatten
+def using_flatten(array)
+array.flatten
 end
 
 def
